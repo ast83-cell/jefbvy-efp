@@ -1,0 +1,73 @@
+.header {
+    overflow: hidden;
+    background-color: #4b4a4a;
+    border-radius: 10px;
+    
+  }
+  
+  /* Style the header links */
+
+  /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+  #logo {
+    width: 100px;
+    border-radius: 100%;
+  }
+  
+  /* Change the background color on mouse-over */
+ 
+  #worksheets{
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-top: -20px;
+    color: whitesmoke;
+    margin-top: -50px;
+    
+  }
+
+  #quiz{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+    font-size: 30px;
+    color:whitesmoke;
+    padding-right: 200px;
+    margin-top: -65px;
+  }
+
+  #heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 30px;
+    color: whitesmoke;
+    padding-left: 110px;
+    margin-top: -60px;
+  }
+
+  #about{
+    text-align: right;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    padding-right: 360px;
+    margin-top: -68px;
+  }
+
+  #home{
+    text-align: right;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    padding-right: 500px;
+    margin-top: -63px;
+  }
+
+   body{
+       background-color: #8a8181;
+   }
+
+   #title{
+       text-align: center;
+       color: whitesmoke;
+       font-size: 70px;
+       box-shadow: 2.5px 2px 2.5px black;
+   }
